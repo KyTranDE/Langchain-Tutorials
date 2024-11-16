@@ -1,3 +1,6 @@
 langchain
 langchain-openai
 python-dotenv
+langchain-core 
+langgraph>0.2.27
+
